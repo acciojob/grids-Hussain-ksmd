@@ -1,2 +1,57 @@
 
 /* Your CSS Code here. */
+.r1c1 {
+    background-color: rgb(55, 125, 128);
+    color: black;
+    width:200px;
+    height:200px;
+}
+.r1c2 {
+    background-color: rgb(212, 196, 213);
+    color: black;
+    width:400px;
+    height:200px;
+}
+.row1 {
+    display: flex;
+}
+.r2c1 {
+    background-color: tomato;
+    color: black;
+    width:200px;
+    height:200px;
+}
+.r2c2 {
+    background-color:aquamarine;
+    color: black;
+    width:200px;
+    height:200px;
+}
+.row2 {
+    margin-top: 10px;
+    display: flex;
+    margin-left: 80px;
+    gap: 80px;
+}
+.r3c1 {
+    background-color: rgb(173, 66, 152);
+    color: black;
+    width:200px;
+    height:200px;
+}
+.r3c2 {
+    background-color: rgb(79, 228, 122);
+    color: black;
+    width:200px;
+    height:200px;
+}
+.row3 {
+    margin-top: 10px;
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.grid {
+    background-color: rgb(48, 4, 4);
+    width:601px;
+}
